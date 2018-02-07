@@ -1,0 +1,9 @@
+.content-container {
+    margin-top: 7rem;
+}
+
+@media (min-width: $desktop-breakpoint) {
+    content-container {
+        margin-top: 25rem;
+    }
+}
